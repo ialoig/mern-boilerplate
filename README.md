@@ -11,10 +11,10 @@ Here some useful resources about MERN stack:
 This project enable you to setup a fresh React application, based on `MERN stack`:
 - [MongoDB](https://www.mongodb.com/cloud/atlas) - document database
 - [Express](http://expressjs.com/) - Node.js web framework
-- [React](https://reactjs.org/)- a client-side JavaScript framework
+- [React](https://reactjs.org/) - a client-side JavaScript framework
 - [Node](https://nodejs.org/en/) - the premier JavaScript web server 
 
-This boilerplate is build upon freeCodeCamp.org curriculum:
+This boilerplate is build upon [freeCodeCamp.org](https://www.freecodecamp.org/learn/) curriculum:
 - Basic Node and Express
 - MongoDB and [Mongoose](https://mongoosejs.com/)
 
