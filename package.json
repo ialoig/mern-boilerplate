@@ -1,0 +1,34 @@
+{
+  "name": "mern-boilerplate",
+  "version": "0.0.1",
+  "author": {
+    "name": "Giovanni Lai",
+    "nickname": "ialoig"
+  },
+  "description": "A boilerplate project for MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.0",
+    "mongoose": "^5.10.0"
+  },
+  "engines": {
+    "node": "12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mern",
+    "mongodb"
+  ],
+  "license": "MIT"
+}
