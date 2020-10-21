@@ -1,5 +1,5 @@
 ## Hi! :wave: 
-## welcome to the MERN Boilerplate, a git repository you can use for your next MERN application.
+### and welcome to the `MERN Boilerplate`, a git repository you can use for your next MERN application.
 
 Here some useful resources about MERN stack:
 1. [Mern stack](https://www.mongodb.com/mern-stack)
