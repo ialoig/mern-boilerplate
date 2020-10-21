@@ -18,6 +18,8 @@ This boilerplate is build upon [freeCodeCamp.org](https://www.freecodecamp.org/l
 - Basic Node and Express
 - MongoDB and [Mongoose](https://mongoosejs.com/)
 
+#
+
 ## 🧐 What's inside?
 
 A quick look at the top-level files and directories you'll see in this project.
@@ -33,3 +35,5 @@ A quick look at the top-level files and directories you'll see in this project.
 1.  **`/package.json`**: Contains packages dependecies.
 
 1.  **`/server.js`**: Contains global settings for MongoDB connection. Connection has been made on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas), a multi-cloud database service for MongoDB.
+
+1.  **`/.env`**: Contains environment variable used to setup connection with MongoDB.
