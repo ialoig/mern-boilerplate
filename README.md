@@ -1,4 +1,4 @@
-## Hi! :wave: 
+### Hi! :wave: 
 ### and welcome to the `MERN Boilerplate`, a git repository you can use for your next MERN application.
 
 Here some useful resources about MERN stack:
