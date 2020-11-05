@@ -1,12 +1,18 @@
+<p align="center"> 
+  <img src="https://i.ibb.co/T1B2pf5/Mern-logo-repo.png" alt="Mern-logo-repo">
+</p>
+
+
 ### Hi! :wave: 
 ### and welcome to the `MERN Boilerplate`, a git repository you can use for your next MERN application.
 
+The MERN stack consists of MongoDB, Express, React / Redux, and Node.js.
 Here some useful resources about MERN stack:
-1. [Mern stack](https://www.mongodb.com/mern-stack)
+- [Mern stack](https://www.mongodb.com/mern-stack)
 
-#
 
-## :gem: MERN Boilerplace Project
+s
+# :gem: MERN Boilerplace Project
 
 This project enable you to setup a fresh React application, based on `MERN stack`:
 - [MongoDB](https://www.mongodb.com/cloud/atlas) - document database
@@ -18,9 +24,9 @@ This boilerplate is build upon [freeCodeCamp.org](https://www.freecodecamp.org/l
 - Basic Node and Express
 - MongoDB and [Mongoose](https://mongoosejs.com/)
 
-#
 
-## 🧐 What's inside?
+
+# 🧐 What's inside?
 
 A quick look at the top-level files and directories you'll see in this project.
 
@@ -37,3 +43,6 @@ A quick look at the top-level files and directories you'll see in this project.
 1.  **`/server.js`**: Contains global settings for MongoDB connection. Connection has been made on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas), a multi-cloud database service for MongoDB.
 
 1.  **`/.env`**: Contains environment variable used to setup connection with MongoDB.
+
+
+<meta name="google-site-verification" content="UIQR3Ko4oszWJX3o7bfQsOChUQYAEq4Yp4hGKdU7grw" />
