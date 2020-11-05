@@ -11,7 +11,6 @@ Here some useful resources about MERN stack:
 - [Mern stack](https://www.mongodb.com/mern-stack)
 
 
-s
 # :gem: MERN Boilerplace Project
 
 This project enable you to setup a fresh React application, based on `MERN stack`:
